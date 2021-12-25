@@ -1,0 +1,2 @@
+# csconfig
+My CSGO config
